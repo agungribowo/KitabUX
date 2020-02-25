@@ -6,3 +6,19 @@ description: >-
 
 # Beranda
 
+{% tabs %}
+{% tab title="Materi" %}
+
+{% endtab %}
+
+{% tab title="Rancangan" %}
+
+{% endtab %}
+
+{% tab title="Isian" %}
+
+{% endtab %}
+{% endtabs %}
+
+
+
