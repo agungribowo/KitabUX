@@ -1,2 +1,2 @@
-# Dengan ini membuat catata sendiri
+# Catata Sendiri
 
