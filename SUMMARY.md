@@ -6,6 +6,6 @@
 * [Getting Started](getting-started.md)
 * [Changelog](changelog.md)
 * [Guide](guide.md)
-* [? FAQ](faq.md)
+* [SIMRS](faq.md)
 * [Blank](blank.md)
 
