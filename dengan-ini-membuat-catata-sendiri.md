@@ -2,7 +2,7 @@
 description: Berisi Artikel Tutorial Sehari Hari
 ---
 
-# Artikel
+# Artikel Mac
 
 
 

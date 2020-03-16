@@ -1,8 +1,18 @@
-# Guide
+# Guide Raspberry Pi
 
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
+
+{% tabs %}
+{% tab title="WPA connect" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 ```
 $ give me super-powers
