@@ -1,4 +1,4 @@
-# Guide Raspberry Pi
+# Raspberry Pi
 
 ## Getting Super Powers
 
